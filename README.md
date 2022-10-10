@@ -26,4 +26,3 @@
 - pytest tests/test_madlib.py
 
 ### Pull Requests
-- 
