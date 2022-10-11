@@ -86,5 +86,5 @@ if __name__=="__main__":
         print("Your crazy story is as follows :p")
         print("*********************************")
         print(read_template("assets/make_me_a_video_game_output.txt"))
-    except Exception() as err:
+    except Exception as err:
         print(err)
