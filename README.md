@@ -26,4 +26,4 @@
 - pytest tests/test_madlib.py
 
 ### Pull Requests
-- [PULL REQUEST LINK](https://github.com/amani51/madlib-cli/pull/1)
+- [PULL REQUEST LINK](https://github.com/amani51/madlib-cli/pull/2)
