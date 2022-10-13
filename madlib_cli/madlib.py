@@ -76,8 +76,8 @@ def write_story(story):
 if __name__=="__main__":
     print(a)
     try:
-        # read_file=read_template("assets/make_me_a_video_game_template.txt")
-        read_file=read_template("assets/dark_and_stormy_night_template.txt")
+        read_file=read_template("assets/make_me_a_video_game_template.txt")
+        # read_file=read_template("assets/dark_and_stormy_night_template.txt")
         template,words=parse_template(read_file)
         required_words=parse_template_parts(words)
         crazy_story=merge(template,required_words)
